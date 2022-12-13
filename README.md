@@ -1,5 +1,5 @@
-# he2fa_translator
-Hebrew to Persian translator based on Argostranslate
+# translator
+ to Persian translator based on Argostranslate
 
 its justify to just translate hebrew to persian text as offline mode 
 
